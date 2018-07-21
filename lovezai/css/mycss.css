@@ -1,0 +1,30 @@
+.first_font{
+    font-size: 30px;
+}
+.second_font{
+    font-size: 24px;
+}
+.third_font{
+    font-size: 18px;
+}
+.second_font{
+    font-size: 16px;
+}
+.third_font{
+    font-size: 14px;
+}
+.main_color{
+    color: #d80b0a;
+}
+.second_color{
+    color:#6d6d6d;
+}
+.third_color{
+    color:#717171;
+}
+.radius1{
+     border-radius: 10px;
+ }
+.radius2{
+    border-radius:5px;
+}
